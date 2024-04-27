@@ -40,7 +40,7 @@ profile:
     Here are my blog and GitHub that organize what I'm studying.
 
   items:
-    - name: blog
+    - name: Blog
       link: https://velog.io/@rlaalsthf02
       description: |
         a Blog for studying and organizing papers or ML concepts
