@@ -15,12 +15,12 @@
 
     {%- if profile.items %}
     <div class="items">
-      {%- for item in project.items %}
+      {%- for item in profile.items %}
       <div class="item">
 
         {%- if item.name %}
         <div class="row">
-          <div class="project-name">
+          <div class="profile.items">
             {%- if item.link %}
             <a href="{{ item.link }}" target="_blank">{{ item.name }}</a>
             {%- else %}
